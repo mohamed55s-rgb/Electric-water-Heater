@@ -1,5 +1,5 @@
 # Electric-water-Heater
-The Electric water heater project is a project made by ATmega32 and by using Atmel studio as a coding software and also by using protues as a simulation software as well which is used to make this simulation is the :- Seven segmants , Timers , Buttons , Leds as well 
+The Electric water heater project  Which is an AMIT Graduation project for ( Embedded System Diploma ) is a project made by ATmega32 and by using Atmel studio as a coding software and also by using protues as a simulation software as well which is used to make this simulation is the :- Seven segmants , Timers , Buttons , Leds as well 
 The macinsm of the project was based on the following as a general way :
   If power is connected to the heater, the electric water heater is in OFF state 
  If the “ON/OFF” button is released and the electric water heater is in OFF state, 
